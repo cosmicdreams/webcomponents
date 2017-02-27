@@ -1,0 +1,7 @@
+name: 'Web components'
+description: 'Provides support for webcomponents to ingest static templates into reusable layout systems.'
+type: module
+core: 8.x
+package: User interface
+dependencies:
+  - ui_patterns
